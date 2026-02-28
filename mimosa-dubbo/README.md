@@ -1,4 +1,4 @@
-# daisy-dubbo-framework
+# mimosa-dubbo
 
 ## 1、项目说明
 

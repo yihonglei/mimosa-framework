@@ -1,4 +1,4 @@
-# daisy-springboot-framework
+# mimosa-springboot
 
 ## 1、项目说明
 

@@ -1,8 +1,8 @@
-# daisy-springcloud-framework
+# mimosa-springcloud
 
 ## 1、项目说明
 
-SpringCloud 微服务实战脚手架项目。
+SpringCloud 微服务脚手架项目。
 
 ## 2、关键技术
 
